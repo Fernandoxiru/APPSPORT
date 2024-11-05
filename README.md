@@ -69,4 +69,4 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 **Fernandoxiru** - Desenvolvedor - [GitHub](https://github.com/Fernandoxiru)
   
   ## 📄 Licença
-  Este projeto está licenciado sob os termos da licença MIT.detalhes, veja o arquivo [LICENSE](https://github.com/Fernandoxiru/APPSPORT/blob/master/LICENSE)). 
+  Este projeto está licenciado sob os termos da licença MIT.detalhes, veja o arquivo [LICENSE](https://github.com/Fernandoxiru/APPSPORT/edit/master/LICENSE)). 
