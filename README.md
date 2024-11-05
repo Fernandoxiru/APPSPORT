@@ -1,7 +1,7 @@
 # AppSport
 
 ## 📱 Descrição
-O #AppSport# permite ao usuário contar o número de passos que está dando, contendo tamanho dos passos e se está correndo ou não.
+O *AppSport* permite ao usuário contar o número de passos que está dando, contendo tamanho dos passos e se está correndo ou não.
 
 ## 🔧 Funcionalidades
 - [X] Entrada de dados(passos dados, tamanho dos passos e esta correndo ou não)
